@@ -7,7 +7,7 @@ In this code random joints and link_length values are generated and applied to m
 joint0_angle = 231.0 degrees      
 joint1_angle = 74.7 degrees     
 End Effector at x = 7.6 y = -59.1    
-<img src="https://raw.githubusercontent.com/devsonni/2-DOF_Manipulator/main/2_DOF_Manipulator.png" width="100" height="50" >
+<img src="https://raw.githubusercontent.com/devsonni/2-DOF_Manipulator/main/2_DOF_Manipulator.png" width="100" >
 ## Used libraries 
 > Numpy      
 > Matplotlib
