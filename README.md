@@ -1,5 +1,5 @@
 ## 2-DOF_Manipulator
-This code is for graphical representation of > 2_DOF < manipulator.
+This code is for graphical representation of `2_DOF` manipulator.
 ## Used libraries 
 > Numpy      
 > Matplotlib
